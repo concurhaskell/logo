@@ -1,2 +1,3 @@
-# Logo experiments for Concur Haskell web framework
+# Current Logo for the Concur Haskell web framework
 
+![Concur Logo](logo.png)
